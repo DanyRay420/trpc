@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@trpc/client": "^10.43.1",
-    "@trpc/server": "^10.43.1"
+    "@trpc/server": "^11.1.1"
   },
   "devDependencies": {
     "bun-types": "^0.7.3",
