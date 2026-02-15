@@ -18,7 +18,7 @@
     "@trpc/client": "^10.43.1",
     "@trpc/react-query": "^10.43.1",
     "@trpc/server": "^10.43.1",
-    "express": "^4.17.1",
+    "express": "^4.22.0",
     "zod": "^3.0.0"
   },
   "alias": {
